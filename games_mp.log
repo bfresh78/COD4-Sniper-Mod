@@ -1,0 +1,81 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \_Location\United States\fs_game\mods/mtl_sniper\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\^3Metalheadz ^4Sniper ^3FFA\sv_maxclients\12\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\0\ui_maxclients\32\version\CoD4 MP 17.9 win_mingw-x86 Feb 27 2019
+  2:06 J;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield
+  2:29 D;33d4d21c7930cfcfaf99a4f7d4558523;0;allies;Rumsfield;;-1;world;;none;1;MOD_FALLING;none
+  2:52 K;33d4d21c7930cfcfaf99a4f7d4558523;0;allies;Rumsfield;33d4d21c7930cfcfaf99a4f7d4558523;-1;;Rumsfield;none;100000;MOD_SUICIDE;none
+  4:05 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;;-1;world;;none;8;MOD_FALLING;none
+  5:04 J;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange
+  5:36 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  5:41 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  5:45 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  5:55 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  6:04 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;neck
+  6:11 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  6:25 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  6:29 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  6:36 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  6:42 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;remington700_mp;72;MOD_RIFLE_BULLET;neck
+  6:43 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  6:55 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;remington700_mp;37;MOD_RIFLE_BULLET;torso_upper
+  6:57 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  7:02 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;torso_upper
+  7:07 Weapon;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield;remington700_mp
+  7:10 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  7:12 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;remington700_mp
+  7:16 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  7:21 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;remington700_mp
+  7:25 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  7:29 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  7:35 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;remington700_mp
+  7:43 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;torso_lower
+  7:49 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;105;MOD_RIFLE_BULLET;left_leg_upper
+  7:54 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;remington700_mp;75;MOD_RIFLE_BULLET;torso_upper
+  7:56 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;75;MOD_RIFLE_BULLET;neck
+  8:01 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;m40a3_mp
+  8:07 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;neck
+  8:17 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;;-1;world;;none;9;MOD_FALLING;none
+  8:17 Weapon;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield;m40a3_mp
+  8:18 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;torso_lower
+  8:24 D;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;m40a3_mp;46;MOD_RIFLE_BULLET;torso_lower
+  8:27 Weapon;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield;remington700_mp
+  8:30 D;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;m40a3_mp;9;MOD_RIFLE_BULLET;left_arm_upper
+  8:31 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  8:37 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  8:44 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;torso_lower
+  8:46 Weapon;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield;remington700_mp
+  8:56 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  9:09 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  9:12 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;remington700_mp
+  9:15 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;105;MOD_RIFLE_BULLET;left_arm_lower
+  9:22 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;remington700_mp;30;MOD_RIFLE_BULLET;left_leg_upper
+  9:24 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;neck
+  9:26 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;remington700_mp
+  9:31 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;torso_upper
+  9:35 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  9:39 D;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;;-1;world;;none;9;MOD_FALLING;none
+  9:39 D;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;m40a3_mp;25;MOD_RIFLE_BULLET;torso_lower
+  9:40 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+  9:43 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;m40a3_mp
+  9:49 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_upper
+  9:55 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;m40a3_mp
+  9:55 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;remington700_mp;25;MOD_RIFLE_BULLET;left_leg_upper
+  9:57 D;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;;-1;world;;none;9;MOD_FALLING;none
+  9:58 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;105;MOD_RIFLE_BULLET;right_arm_lower
+ 10:05 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;m40a3_mp
+ 10:09 K;33d4d21c7930cfcfaf99a4f7d4558523;0;axis;Rumsfield;e2d2c0e69b628210b54296885bdab55e;1;;Agent Orange;remington700_mp;156;MOD_RIFLE_BULLET;torso_lower
+ 10:12 Weapon;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange;m40a3_mp
+ 10:13 K;e2d2c0e69b628210b54296885bdab55e;1;allies;Agent Orange;33d4d21c7930cfcfaf99a4f7d4558523;0;;Rumsfield;m40a3_mp;156;MOD_RIFLE_BULLET;torso_upper
+ 10:15 Weapon;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield;m40a3_mp
+ 10:31 Q;e2d2c0e69b628210b54296885bdab55e;1;Agent Orange
+ 10:31 ExitLevel: executed
+ 10:31 ShutdownGame:
+ 10:31 ------------------------------------------------------------
+ 10:31 ------------------------------------------------------------
+ 10:31 InitGame: \_Location\United States\fs_game\mods/mtl_sniper\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_shipment\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\^3Metalheadz ^4Sniper ^3FFA\sv_maxclients\12\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\0\ui_maxclients\32\version\CoD4 MP 17.9 win_mingw-x86 Feb 27 2019
+ 10:39 J;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield
+ 11:39 Q;33d4d21c7930cfcfaf99a4f7d4558523;0;Rumsfield
+ 21:03 ExitLevel: executed
+ 21:03 ShutdownGame:
+ 21:03 ------------------------------------------------------------
+ 21:03 ------------------------------------------------------------
+ 21:03 InitGame: \_Location\United States\fs_game\mods/mtl_sniper\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_poolparty\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\^3Metalheadz ^4Sniper ^3FFA\sv_maxclients\12\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\0\ui_maxclients\32\version\CoD4 MP 17.9 win_mingw-x86 Feb 27 2019
